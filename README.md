@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Intern Onboarding Guide
 
 A dual-interface onboarding system that provides information about Andromeda Protocol's internship program through both a CLI and web interface. The system uses OpenAI's API to provide intelligent responses to follow-up questions.
@@ -168,3 +169,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+=======
+# andromeda
+>>>>>>> c1a929188a06b56cf1df78d2dc25804f01268a7c
