@@ -1,0 +1,23 @@
+Supervisor: Leif Sørensen, Senior Lead Offchain Engineer (https://www.linkedin.com/in/leifasorensen/)
+
+Duration: 3 weeks
+
+Weekly office hours available
+
+Two sub-roles:
+a) Rust/Smart Contract Developer
+b) Front End Developer
+
+Final Submission Options (Due 1/24, required for stipend):
+1. Use Case:
+   - Create a functioning project using aOS
+   - Include a pitch deck explaining the project/dApp
+   - Detail problem-solving approach and revenue generation
+   - Provide supporting documentation
+   - Must be fully functional for credit
+
+2. Technical Documentation and Tutorials:
+   - Create comprehensive documentation for aOS platform developers
+   - Include step-by-step guides, code snippets, and visual aids
+   - Focus on clarity and usability
+   - Bonus: Include video tutorials or interactive components

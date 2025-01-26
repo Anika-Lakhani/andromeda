@@ -1,0 +1,31 @@
+The Andromeda Protocol internship is a 3-week program ending January 24, 2025, with four distinct tracks: Marketing, Tech, PM/OPS, and AI. Each track has specific requirements and supervisors:
+
+## Common Requirements
+- Weekly office hours attendance
+- Progress reports
+- Community engagement
+- Social media participation with track-relevant experts
+- Documentation of learning
+
+## Final Projects
+Each track offers two project choices:
+
+**Marketing** (Supervisor: Abi Nix)
+- Use Case Project (business plan/pitch deck) or
+- Marketing Campaign (strategy with metrics)
+
+**Tech** (Supervisor: Leif Sørensen)
+- Functioning aOS Project or
+- Technical Documentation with guides
+
+**PM/OPS** (Supervisor: Kevin Colahan)
+- Use Case Project or
+- Operational Playbook with templates
+
+**AI** (Supervisor: Myron Koch)
+- AI-focused aOS Project or
+- Internal AI Tool development
+
+All submissions must demonstrate innovation, technical proficiency, and practical applicability, delivered in PDF format with appropriate documentation and demonstrations.
+
+Note: The final project deadline has already passed as of the current date (January 25, 2025).

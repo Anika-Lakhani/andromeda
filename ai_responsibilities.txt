@@ -1,0 +1,22 @@
+Supervisor: Myron Koch, AI Director (https://www.linkedin.com/in/myronkoch/)
+
+Duration: 3 weeks
+
+Key Responsibilities:
+- Conduct weekly AI research on tools, platforms, and industry developments
+- Identify top AI players, trends, and innovative applications
+- Submit concise reports summarizing findings and opportunities
+- Test and analyze AI tools and platforms
+- Provide feedback and integration recommendations
+- Brainstorm innovative AI incorporations for aOS
+- Collaborate with other teams on cross-functional AI use cases
+
+Final Submission Options (Due 1/24, required for stipend):
+1. Use Case:
+   - Create an AI project idea using aOS
+   - Write a business plan, create a pitch deck, or build a project/dApp
+   - Include revenue generation strategy
+
+2. Create a Tool:
+   - Develop an AI tool for internal team operations
+   - Focus on making day-to-day tasks easier, better, and faster for team members

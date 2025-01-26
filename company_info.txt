@@ -1,0 +1,14 @@
+Andromeda Protocol is a pioneering company in the blockchain, AI, and Web3 space, founded in 2021 and based in Wilmington, Delaware. The company's mission is to make blockchain development easier, better, and faster for creators and developers of all skill levels.
+
+Key facts about Andromeda Protocol:
+- Founded in 2021
+- CEO: Mant Hawkins
+- Funding: Raised $2.08M to date
+- Core product: Andromeda Operating System (aOS), the first decentralized, on-chain operating system for Web3 applications
+- Key features: Andromeda Digital Objects (ADOs), cross-chain interoperability, No-Code-Builder, and a comprehensive toolkit
+
+The company embodies three key qualities: creativity, agility, and adaptability. Andromeda's team consists of skilled engineers and seasoned entrepreneurs with an average of 15 years of experience in their respective fields. Collectively, they know over 25 coding languages, and many team members have been involved with blockchain since 2012.
+
+Before founding Andromeda, team members spent four years working on NFT solutions, focusing on establishing technical standards, enforcing royalties, and tying in legal rights. The company's core offering is a modular system of digital objects that can be combined in various ways to meet different needs.
+
+Andromeda Protocol leverages Inter-Blockchain Communication (IBC) to enable seamless connections across various chains in the Cosmos ecosystem. Their goal is to simplify and revolutionize blockchain development, making it more accessible to creators and developers of all skill levels, enabling them to build without limits and get to market quicker with their "Easier, Better, Faster" approach.

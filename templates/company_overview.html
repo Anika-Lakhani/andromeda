@@ -1,0 +1,11 @@
+<div class="section">
+    <div class="content-area">
+        {{ summary | safe }}
+    </div>
+    
+    <div class="question-section">
+        <input type="text" id="company_overview-question" placeholder="Ask a follow-up question...">
+        <button onclick="askQuestion('company_overview')">Ask Question</button>
+        <div id="company_overview-response" class="response-area"></div>
+    </div>
+</div> 

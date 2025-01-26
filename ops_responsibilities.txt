@@ -1,0 +1,27 @@
+Supervisor: Kevin Colahan, Project Manager (https://www.linkedin.com/in/kevincolahan/)
+
+Duration: 3 weeks
+
+Weekly office hours: Thursdays 1-2PM ET
+
+Key Responsibilities:
+- Manage intern teams across departments
+- Assist in project planning and organization
+- Liaise between interns, supervisors, and team members
+- Maintain project documentation
+- Coordinate and lead intern meetings
+- Support operational workflows
+- Report progress to senior management
+
+Final Submission Options (Due 1/24, required for stipend):
+1. Use Case:
+   - Create a project idea using aOS
+   - Write a business plan or create a pitch deck
+   - Include revenue generation strategy
+   - Building the idea is optional but encouraged
+
+2. Operational Playbook:
+   - Develop a detailed guide for managing Andromeda ecosystem projects
+   - Include templates, checklists, and best practices
+   - Address potential challenges and provide solutions
+   - Bonus: Incorporate automation tools or processes

@@ -1,0 +1,91 @@
+ANDROMEDA PROTOCOL INTERNSHIP REQUIREMENTS
+
+GENERAL REQUIREMENTS (ALL INTERNS)
+
+Duration: 3 weeks
+Final Project Due Date: January 24, 2025
+
+SOCIAL MEDIA ENGAGEMENT
+- Follow and engage with relevant X (Twitter) accounts based on your internship track
+- Marketing interns: Focus on marketing thought leaders and Web3 influencers
+- Tech interns: Follow technical experts and blockchain developers
+- PM/OPS interns: Engage with product management and operations leaders
+- AI interns: Connect with AI researchers and industry experts
+
+WEEKLY REQUIREMENTS
+- Attend scheduled office hours with your supervisor
+- Submit weekly progress reports
+- Engage with the Andromeda community
+- Document your learning and contributions
+
+FINAL SUBMISSION REQUIREMENTS BY TRACK
+
+1. MARKETING TRACK
+Supervisor: Abi Nix
+Choose one:
+a. Use Case Project
+   - Create aOS project idea
+   - Develop business plan/pitch deck
+   - Include revenue model
+   - Optional: Build prototype
+b. Marketing Campaign
+   - Design comprehensive marketing strategy
+   - Focus on community engagement
+   - Include measurable success metrics
+
+2. TECH TRACK
+Supervisor: Leif Sørensen
+Choose one:
+a. Use Case Project
+   - Create functioning aOS project
+   - Must be fully operational
+   - Include complete documentation
+   - Required: Working prototype
+b. Technical Documentation
+   - Create developer guides
+   - Include code examples
+   - Provide visual aids
+   - Bonus: Video tutorials
+
+3. PM/OPS TRACK
+Supervisor: Kevin Colahan
+Choose one:
+a. Use Case Project
+   - Create aOS project idea
+   - Develop business plan/pitch deck
+   - Include revenue model
+   - Optional: Build prototype
+b. Operational Playbook
+   - Create project management guidelines
+   - Develop templates and checklists
+   - Include automation recommendations
+   - Focus on efficiency improvements
+
+4. AI TRACK
+Supervisor: Myron Koch
+Choose one:
+a. AI Use Case Project
+   - Create AI-focused aOS project
+   - Include business plan/pitch deck
+   - Revenue model required
+   - Optional: Working prototype
+b. Internal AI Tool
+   - Develop practical AI solution
+   - Focus on team efficiency
+   - Must be implementable
+   - Include usage documentation
+
+EVALUATION CRITERIA
+- Innovation and creativity
+- Technical proficiency
+- Documentation quality
+- Community engagement
+- Practical applicability
+- Revenue potential (for use cases)
+- Implementation feasibility
+
+SUBMISSION FORMAT
+- All documentation in PDF format
+- Code in appropriate repository
+- Presentation slides if applicable
+- Video demonstrations where required

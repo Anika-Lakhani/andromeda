@@ -1,0 +1,20 @@
+<div class="section">
+    <div class="intern-type-selector">
+        <select id="intern_responsibilities-intern-type" onchange="selectInternType('intern_responsibilities')">
+            <option value="">Select Intern Type</option>
+            <option value="Marketing">Marketing</option>
+            <option value="Tech">Tech</option>
+            <option value="Operations">Operations</option>
+            <option value="AI">AI</option>
+            <option value="I don't know">I don't know</option>
+        </select>
+    </div>
+
+    <div id="intern_responsibilities-content" class="content-area"></div>
+    
+    <div class="question-section">
+        <input type="text" id="intern_responsibilities-question" placeholder="Ask a follow-up question...">
+        <button onclick="askQuestion('intern_responsibilities')">Ask Question</button>
+        <div id="intern_responsibilities-response" class="response-area"></div>
+    </div>
+</div> 

@@ -1,0 +1,11 @@
+<div class="section">
+    <div class="content-area">
+        {{ summary | safe }}
+    </div>
+    
+    <div class="question-section">
+        <input type="text" id="expectations-question" placeholder="Ask a follow-up question...">
+        <button onclick="askQuestion('project_expectations')">Ask Question</button>
+        <div id="expectations-response" class="response-area"></div>
+    </div>
+</div> 

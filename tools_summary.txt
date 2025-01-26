@@ -1,0 +1,34 @@
+Development Tools:
+- Visual Studio Code with Rust and Web3 extensions
+- GitHub for version control
+- Docker for containerization
+- Rust development environment
+- CosmWasm SDK
+
+Marketing Tools:
+- Canva for graphic design
+- Hootsuite for social media management
+- Google Analytics
+- Discord and Telegram for community management
+- Adobe Creative Suite
+
+Operations Tools:
+- Jira for project management
+- Notion for documentation
+- Slack for team communication
+- Google Workspace
+- Monday.com for task tracking
+
+AI Tools:
+- Python development environment
+- Jupyter Notebooks
+- TensorFlow and PyTorch
+- OpenAI API
+- Hugging Face Transformers
+
+Common Tools (All Roles):
+- Slack for communication
+- Google Workspace (Docs, Sheets, Slides)
+- Notion for documentation
+- GitHub for version control
+- Discord for community interaction

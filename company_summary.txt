@@ -1,0 +1,3 @@
+Founded in 2021 in Wilmington, Delaware, Andromeda Protocol is revolutionizing Web3 development through its core product, the Andromeda Operating System (aOS).
+
+Led by CEO Mant Hawkins and backed by $2.08M in funding, the company leverages Andromeda Digital Objects (ADOs) and cross-chain interoperability to make blockchain development easier, better, and faster. Their experienced team of engineers and entrepreneurs brings over 15 years of expertise and knowledge of 25+ coding languages to deliver a comprehensive toolkit that enables developers of all skill levels to build and deploy Web3 applications efficiently.
